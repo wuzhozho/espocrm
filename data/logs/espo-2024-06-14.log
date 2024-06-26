@@ -1,0 +1,14 @@
+[2024-06-14 14:14:11] ERROR: (0) cannot read - connection closed?; POST /EmailAccount/action/testConnection; line: 143, file: D:\xampp\htdocs\espocrm\vendor\laminas\laminas-mail\src\Protocol\Imap.php  
+[2024-06-14 14:14:36] ERROR: (0) cannot read - connection closed?; POST /EmailAccount/action/testConnection; line: 143, file: D:\xampp\htdocs\espocrm\vendor\laminas\laminas-mail\src\Protocol\Imap.php  
+[2024-06-14 14:31:50] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:32:05] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:35:02] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:35:22] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:35:23] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:35:27] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:35:35] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:51:30] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:51:46] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:52:25] WARNING: (403) POST /Email/sendTest; line: 650, file: D:\xampp\htdocs\espocrm\application\Espo\Tools\Email\SendService.php  
+[2024-06-14 14:57:55] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
+[2024-06-14 14:59:15] WARNING: (403) Assignment failure: assigned user or team not allowed.; POST /Email; line: 502, file: D:\xampp\htdocs\espocrm\application\Espo\Core\Record\Service.php  
